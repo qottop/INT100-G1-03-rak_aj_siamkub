@@ -1,8 +1,8 @@
 # Chittiphat Sarabua (Top)
 
-> ✍️ Introduction written by: New
+> ✍️ Introduction written by: Vorathep Boonsuan (New)
 
-![Top](Top.png)
+<img src="Top.png" alt="Top" width="300">
 
 ## 👤 About Top
 
