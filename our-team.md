@@ -18,4 +18,4 @@
 ## ผู้สัมภาษณ์ นายภัทรดนัย แจ่มประทีป 043 ## 
 
 ## instagram https://www.instagram.com/t.nxtd_/##
-![alt text](41720.jpg)
+![alt text](ter.jpg)
