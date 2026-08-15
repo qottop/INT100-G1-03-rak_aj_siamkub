@@ -174,7 +174,7 @@
 ## INSTAGRAM USER LINK: https://www.instagram.com/ma_wxm/
 
 
-![alt text](Mo.png)
+![alt text](Mo2.png)
 
 ## นายจิรายุธ บูรณะจันทร์ ผู้สัมภาษณ์ 008
 
@@ -214,8 +214,10 @@
 
 
 
+<<<<<<< HEAD
+![alt text](Mo2.png)
+=======
 ![alt test](image/thankter.jpg)
 
 
 ## นายนิติธาดา เคารพธรรม ผู้สัมภาษณ์ 030
-
