@@ -4,7 +4,6 @@
 
 # 1.Mo (นส.วรรณษา มณีเขียว 054)![alt text](image-1.png)
 
-
 # 2.Ter (นายนิติธาดา เคารพธรรม ผู้ให้สัมภาษณ์ 030)![alt text](ter.png)
 
 # 3.ThankYou (นายภัทรดนัย แจ่มประทีป 043)![alt text](thankyou.png)
