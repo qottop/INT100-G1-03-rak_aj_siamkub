@@ -132,7 +132,7 @@
 
 ## INSTAGRAM USER LINK:https://www.instagram.com/ice.e_jirayut
 
-![alt text](image.png)
+![alt text](Icesudloar.png) 
 
 
 ## น.ส.วรรณษา มณีเขียว 054 ผู้สัมภาษณ์ 🙈🙈
@@ -174,7 +174,7 @@
 ## INSTAGRAM USER LINK: https://www.instagram.com/ma_wxm/
 
 
-![alt text](Icesudloar.png)
+![alt text](image-1.png)
 
 ## นายจิรายุธ บูรณะจันทร์ ผู้สัมภาษณ์ 008
 
