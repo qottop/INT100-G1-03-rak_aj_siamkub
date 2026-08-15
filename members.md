@@ -2,7 +2,7 @@
 # Our Members😘😘
 
 
-# 1.Mo (นส.วรรณษา มณีเขียว 054)![alt text](image-1.png)
+# 1.Mo (นส.วรรณษา มณีเขียว 054)![alt text](Mo.png)
 
 
 # 2.Ter (นายนิติธาดา เคารพธรรม ผู้ให้สัมภาษณ์ 030)![alt text](ter.png)
