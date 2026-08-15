@@ -19,7 +19,7 @@
 
 
 ## instagram https://www.instagram.com/t.nxtd_/##
-![alt text](ter.jpg)
+![alt text](image/ter.jpg)
 
 ## ผู้สัมภาษณ์ นายภัทรดนัย แจ่มประทีป 043 
 
@@ -52,7 +52,7 @@
 
 [IG :] https://www.instagram.com/newvorathep/?hl=en
 
-![alt text](imageNEW.png)
+![alt text](image/NEW.png)
 
 ## Chittiphat Sarabua ผู้สัมภาษณ์ 007
 
@@ -62,7 +62,7 @@
 
 > ✍️ Introduction written by: Vorathep Boonsuan (New) 051
 
-<img src="Top.png" alt="Top" width="300">
+<img src="image/Top.png" alt="Top" width="300">
 
 ## 👤 About Top
 
@@ -132,7 +132,7 @@
 
 ## INSTAGRAM USER LINK:https://www.instagram.com/ice.e_jirayut
 
-![alt text](Icesudloar.png) 
+![alt text](image/Icesudloar.png) 
 
 
 ## น.ส.วรรณษา มณีเขียว 054 ผู้สัมภาษณ์ 🙈🙈
@@ -174,7 +174,7 @@
 ## INSTAGRAM USER LINK: https://www.instagram.com/ma_wxm/
 
 
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
 ## นายจิรายุธ บูรณะจันทร์ ผู้สัมภาษณ์ 008
 
